@@ -1,2 +1,2 @@
 # Remove third party libaries from linguist stats
-src/include linguist-vendored
+src/include/** linguist-vendored
